@@ -223,7 +223,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`$فكك$ , سرعة$ , لغز`| By ShAnKs,"http://twitch.tv/ShAnKs")
+client.user.setGame(`لغز , $سرعة , $فكك$ | By ShAnKs`,"http://twitch.tv/ShAnKs")
 client.user.setStatus("dnd")
 });
 
